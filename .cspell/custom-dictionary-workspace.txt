@@ -1,6 +1,8 @@
 # Custom Dictionary Words
 CONNECTTO
 Ejsak
+Freemium
+Geolocation
 Pilnuje
 Pilnuję
 privacypolicytemplate
