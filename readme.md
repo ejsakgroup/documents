@@ -9,4 +9,5 @@
 ### Wine Tutor
 - [Privacy Policy](https://ejsakgroup.github.io/documents/wine_tutor/privacy_policy.html)
 - [Account deletion instructions](https://ejsakgroup.github.io/documents/wine_tutor/delete_account.html)
+- [Terms & Conditions](https://ejsakgroup.github.io/documents/wine_tutor/terms_and_conditions.html)
 
